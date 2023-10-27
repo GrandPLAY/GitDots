@@ -10,7 +10,7 @@ namespace GitDots
     {
         static void Main(string[] args)
         {
-            double x1, x2, y1, y2, d, p;
+            double x1, x2, y1, y2, d, p, sSqr;
 
             var rand = new Random();
 
@@ -23,10 +23,13 @@ namespace GitDots
 
             p = d * 4;
 
+            sSqr = d * d;
+
             Console.WriteLine($"x1: {x1:F2} y1: {y1:F2}");
             Console.WriteLine($"x2: {x2:F2} y2: {y2:F2}");
             Console.WriteLine($"Длина отрезка: {d:F2}");
             Console.WriteLine($"Периметр квадрата: {p:F2}");
+            Console.WriteLine($"Площадь квадрата: {sSqr:F2}");
 
             Console.ReadKey();
         }
