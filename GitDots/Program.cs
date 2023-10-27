@@ -10,7 +10,7 @@ namespace GitDots
     {
         static void Main(string[] args)
         {
-            double x1, x2, y1, y2, d, c;
+            double x1, x2, y1, y2, d, c, sCirc;
 
             var rand = new Random();
 
@@ -23,10 +23,13 @@ namespace GitDots
 
             c = 2 * Math.PI * d;
 
+            sCirc = Math.PI * d * d;
+
             Console.WriteLine($"x1: {x1:F2} y1: {y1:F2}");
             Console.WriteLine($"x2: {x2:F2} y2: {y2:F2}");
             Console.WriteLine($"Длина отрезка: {d:F2}");
             Console.WriteLine($"Длина окружности: {c:F2}");
+            Console.WriteLine($"Площадь круга: {sCirc:F2}");
 
             Console.ReadKey();
         }
