@@ -1,0 +1,8 @@
+C:\Users\Ярослав\Desktop\Модули\GitDots\GitDots\bin\Debug\GitDots.exe.config
+C:\Users\Ярослав\Desktop\Модули\GitDots\GitDots\bin\Debug\GitDots.exe
+C:\Users\Ярослав\Desktop\Модули\GitDots\GitDots\bin\Debug\GitDots.pdb
+C:\Users\Ярослав\Desktop\Модули\GitDots\GitDots\obj\Debug\GitDots.csproj.AssemblyReference.cache
+C:\Users\Ярослав\Desktop\Модули\GitDots\GitDots\obj\Debug\GitDots.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ярослав\Desktop\Модули\GitDots\GitDots\obj\Debug\GitDots.csproj.CoreCompileInputs.cache
+C:\Users\Ярослав\Desktop\Модули\GitDots\GitDots\obj\Debug\GitDots.exe
+C:\Users\Ярослав\Desktop\Модули\GitDots\GitDots\obj\Debug\GitDots.pdb
