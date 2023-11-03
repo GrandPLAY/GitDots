@@ -44,6 +44,8 @@ namespace GitDots
             Console.WriteLine($"Площадь квадрата: {sSqr:F2}");
             Console.WriteLine($"Объем куба: {v:F2}");
 
+            Console.WriteLine("На этом всё");
+
             Console.ReadKey();
         }
     }
